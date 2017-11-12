@@ -64,8 +64,8 @@ Y si queremos ver las _n_ ultimas lineas utilizamos:
 
 
 <p align=\"center\">
-    <img src=\"https://raw.githubusercontent.com/Zavaleta-Bueno/Curso-R/master/Clase3/Tareas3/ope.png\">
-    <center><b>Fig 1. Campos de Aplicaciones de R</b></center> 
+    <img src=\"https://raw.githubusercontent.com/Zavaleta-Bueno/Linux/gh-pages/lain-1.gif\">
+    <center><b> No seas como julita y programa </b></center> 
 </p>
 
 
