@@ -64,7 +64,7 @@ Y si queremos ver las _n_ ultimas lineas utilizamos:
 
 
 <p align=\"center\">
-    <img src=\"https://raw.githubusercontent.com/Zavaleta-Bueno/Linux/gh-pages/lain-1.gif">
+    <img src=\"https://github.com/Zavaleta-Bueno/Linux/blob/gh-pages/lain-1.gif">
     <center><b> No seas como julita y programa </b></center> 
 </p>
 
