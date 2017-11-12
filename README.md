@@ -62,6 +62,10 @@ Y si queremos ver las _n_ ultimas lineas utilizamos:
 	tail -n nombre_archivo 			
 ```
 
+<p align="center">
+  <img src="https://github.com/Zavaleta-Bueno/Linux/blob/gh-pages/lain-1.gif" />
+</p>
+
 
 <p align=\"center\">
     <img src=\"https://github.com/Zavaleta-Bueno/Linux/blob/gh-pages/lain-1.gif">
