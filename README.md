@@ -55,12 +55,18 @@ Ahora si queremos observar las primeras _n_ lineas utilizamos:
 	head  -n nombre_archivo	
 ```
 
-Y si queremos ver las n ultimas lineas utilizamos:
+Y si queremos ver las _n_ ultimas lineas utilizamos:
 
 
 ``` bash
 	tail -n nombre_archivo 			
 ```
+
+
+<p align=\"center\">
+    <img src=\"https://raw.githubusercontent.com/Zavaleta-Bueno/Curso-R/master/Clase3/Tareas3/ope.png\">
+    <center><b>Fig 1. Campos de Aplicaciones de R</b></center> 
+</p>
 
 
 
