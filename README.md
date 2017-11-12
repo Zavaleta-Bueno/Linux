@@ -62,6 +62,18 @@ Y si queremos ver las _n_ ultimas lineas utilizamos:
 	tail -n nombre_archivo 			
 ```
 
+### Ver los detalles de archivos 
+
+Antes de pasar de lleno a los detalles de los archivos, tenemos primero que listarlos
+
+``` bash
+	ls 			
+```
+Este comando nos listara todos los **_archivos visibles_** presentes en el directorio.
+
+
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Zavaleta-Bueno/Linux/gh-pages/lain-1.gif"/>
