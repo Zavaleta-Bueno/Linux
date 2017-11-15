@@ -7,7 +7,7 @@
 
 The history of Linux began in 1991 with the commencement of a personal project by Finnish student Linus Torvalds to create a new free operating system kernel. Since then, the resulting Linux kernel has been marked by constant growth throughout its history. Since the initial release of its source code in 1991, it has grown from a small number of C files under a license prohibiting commercial distribution to the 4.2.3 version in 2015 with more than 18 million lines of source code under the GNU General Public License v2.[^1]
 
-[^1]:  Esto es una nota al pie de página. 
+[^1]: [History of Linux](https://en.wikipedia.org/wiki/History_of_Linux "Wikipedia"). 
 
 
 ## Linux Distribution
@@ -112,3 +112,7 @@ DNF comes with Fedora since version 18, but DNF can installed by using the yum C
   <img src="https://raw.githubusercontent.com/Zavaleta-Bueno/Linux/gh-pages/imagenes/lain-1.gif">
   <center><b> ------------------ </b></center> 
 </p>
+
+
+
+## Bibliography
