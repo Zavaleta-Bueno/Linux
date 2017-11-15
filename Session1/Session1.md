@@ -12,8 +12,9 @@ The history of Linux began in 1991 with the commencement of a personal project b
 
 ## Linux Distribution
 
-A Linux distribution (often abbreviated as distro) is an operating system made from a software collection, which is based upon the Linux kernel and, often, a package management system. Linux users usually obtain their operating system by downloading one of the Linux distributions, which are available for a wide variety of systems ranging from embedded devices (for example, OpenWrt) and personal computers (for example, Linux Mint) to powerful supercomputers (for example, Rocks Cluster Distribution).
+A Linux distribution (often abbreviated as distro) is an operating system made from a software collection, which is based upon the Linux kernel and, often, a package management system. Linux users usually obtain their operating system by downloading one of the Linux distributions, which are available for a wide variety of systems ranging from embedded devices (for example, OpenWrt) and personal computers (for example, Linux Mint) to powerful supercomputers (for example, Rocks Cluster Distribution). [^2]
 
+[^2]: [Linux Distribution](https://en.wikipedia.org/wiki/Linux_distribution "Wikipedia").
 
 
 
@@ -72,10 +73,11 @@ Este comando nos listara todos los **_archivos visibles_** presentes en el direc
 
 
 
-## Tipos de Archivos en Linux
+## Types of Files in Linux
 
-By default Unix have only 3 types of files:
+By default Unix have only 3 types of files:[^3]
 
+[^3] : [File types In Linux/Unix explained in detail.](https://www.linux.com/blog/file-types-linuxunix-explained-detail "Linux News").
 
 **Regular files**:
 
@@ -95,7 +97,9 @@ By default Unix have only 3 types of files:
 
 In order to install the program we can use dnf:
 
-DNF is a software package manager that installs, updates, and removes packages on RPM-based Linux distributions. It automatically computes dependencies and determines the actions required to install packages. DNF also makes it easier to maintain groups of machines, eliminating the need to manually update each one using rpm. Introduced in Fedora 18, it has been the default package manager since Fedora 22.
+DNF is a software package manager that installs, updates, and removes packages on RPM-based Linux distributions. It automatically computes dependencies and determines the actions required to install packages. DNF also makes it easier to maintain groups of machines, eliminating the need to manually update each one using rpm. Introduced in Fedora 18, it has been the default package manager since Fedora 22.[^3]
+
+[^3] : [DNF](https://fedoraproject.org/wiki/DNF?rd=Dnf "Fedora Projetc")
 
 DNF or Dandified yum is the next generation version of yum. It roughly maintains CLI compatibility with yum and defines a strict API for extensions and plugins. Plugins can modify or extend features of DNF or provide additional CLI commands on top of those mentioned below. If you know the name of such a command (including commands mentioned bellow), you may find/install the package which provides it using the appropriate virtual provide in the form of dnf-command(**< alias >**) where **< alias >** is the name of the command; e.g. dnf-command(repoquery) for a repoquery command (the same applies to specifying dependencies of packages that require a particular command).
 
