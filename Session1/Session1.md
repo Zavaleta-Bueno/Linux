@@ -20,6 +20,9 @@ A Linux distribution (often abbreviated as distro) is an operating system made f
 
 
 
+
+
+
 ## Commands
 
 We can make use of the following commands to see the BIOS information:
