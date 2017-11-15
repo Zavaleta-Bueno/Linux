@@ -73,9 +73,11 @@ By default Unix have only 3 types of files:
 * Directory files
 
 * Special files(This category is having 5 sub types in it.)
-
-
-
+	1. Block file(b)
+	2. Character device file(c)
+	3. Named pipe file or just a pipe file(p)
+	4. Symbolic link file(l)
+	5. Socket file(s)
 
 
 
