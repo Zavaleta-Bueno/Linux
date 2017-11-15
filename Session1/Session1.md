@@ -3,24 +3,24 @@
 
 
 
-## Historia
+## History of Linux
+
+The history of Linux began in 1991 with the commencement of a personal project by Finnish student Linus Torvalds to create a new free operating system kernel. Since then, the resulting Linux kernel has been marked by constant growth throughout its history. Since the initial release of its source code in 1991, it has grown from a small number of C files under a license prohibiting commercial distribution to the 4.2.3 version in 2015 with more than 18 million lines of source code under the GNU General Public License v2.
 
 
 
 
+## Commands
 
+We can make use of the following commands to see the BIOS information:
 
-## Comandos 
-
-
-Podemos hacer uso de los siguientes comando para ver la informacion de la BIOS:
 
 ``` bash
 	biosdecode	
 ```
 
 
-Y queremos ser mas especificos :
+And we want to be more specific :
 
 ``` bash
 	dmidecode	
@@ -29,9 +29,11 @@ Y queremos ser mas especificos :
 
 ## Instalando algunos programas
 
-Para poder instalar programa podemos utilizar dnf:
+In order to install the program we can use dnf:
 
-DNF o Dandified Yum es la versión de próxima generación de Yellowdog Updater, Modified (yum), un gestor de paquetes para distribuciones basadas en RPM. DNF fue introducido en Fedora 18, y fue propuesto para reemplazar a yum en Fedora 22. Lo que DNF pretende mejorar de yum son el rendimiento, el alto uso de memoria, y la lentitud de su resolución de dependencia iterativa. DNF Utiliza libsolv, para resolver las dependencias externas.
+DNF is a software package manager that installs, updates, and removes packages on RPM-based Linux distributions. It automatically computes dependencies and determines the actions required to install packages. DNF also makes it easier to maintain groups of machines, eliminating the need to manually update each one using rpm. Introduced in Fedora 18, it has been the default package manager since Fedora 22.
+
+DNF or Dandified yum is the next generation version of yum. It roughly maintains CLI compatibility with yum and defines a strict API for extensions and plugins. Plugins can modify or extend features of DNF or provide additional CLI commands on top of those mentioned below. If you know the name of such a command (including commands mentioned bellow), you may find/install the package which provides it using the appropriate virtual provide in the form of dnf-command(<alias>) where <alias> is the name of the command; e.g. dnf-command(repoquery) for a repoquery command (the same applies to specifying dependencies of packages that require a particular command).
 
 
 
