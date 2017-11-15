@@ -5,7 +5,16 @@
 
 ## History of Linux
 
-The history of Linux began in 1991 with the commencement of a personal project by Finnish student Linus Torvalds to create a new free operating system kernel. Since then, the resulting Linux kernel has been marked by constant growth throughout its history. Since the initial release of its source code in 1991, it has grown from a small number of C files under a license prohibiting commercial distribution to the 4.2.3 version in 2015 with more than 18 million lines of source code under the GNU General Public License v2.
+The history of Linux began in 1991 with the commencement of a personal project by Finnish student Linus Torvalds to create a new free operating system kernel. Since then, the resulting Linux kernel has been marked by constant growth throughout its history. Since the initial release of its source code in 1991, it has grown from a small number of C files under a license prohibiting commercial distribution to the 4.2.3 version in 2015 with more than 18 million lines of source code under the GNU General Public License v2.[^1]
+
+[^1]:  Esto es una nota al pie de página. 
+
+
+## Linux Distribution
+
+A Linux distribution (often abbreviated as distro) is an operating system made from a software collection, which is based upon the Linux kernel and, often, a package management system. Linux users usually obtain their operating system by downloading one of the Linux distributions, which are available for a wide variety of systems ranging from embedded devices (for example, OpenWrt) and personal computers (for example, Linux Mint) to powerful supercomputers (for example, Rocks Cluster Distribution).
+
+
 
 
 
@@ -90,10 +99,16 @@ DNF is a software package manager that installs, updates, and removes packages o
 
 DNF or Dandified yum is the next generation version of yum. It roughly maintains CLI compatibility with yum and defines a strict API for extensions and plugins. Plugins can modify or extend features of DNF or provide additional CLI commands on top of those mentioned below. If you know the name of such a command (including commands mentioned bellow), you may find/install the package which provides it using the appropriate virtual provide in the form of dnf-command(**< alias >**) where **< alias >** is the name of the command; e.g. dnf-command(repoquery) for a repoquery command (the same applies to specifying dependencies of packages that require a particular command).
 
+DNF comes with Fedora since version 18, but DNF can installed by using the yum Command:
+
+``` bash
+	# yum install dnf	
+```
+
 
 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Zavaleta-Bueno/Linux/gh-pages/imagenes/lain-1.gif">
-  <center><b> No seas como yuri y programa </b></center> 
+  <center><b> ------------------ </b></center> 
 </p>
