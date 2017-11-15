@@ -88,7 +88,7 @@ Este comando nos listara todos los **_archivos visibles_** presentes en el direc
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zavaleta-Bueno/Linux/master/imagenes/lain-1.gif/>
+  <img src="https://raw.githubusercontent.com/Zavaleta-Bueno/Linux/master/imagenes/lain-1.gif/">
   <center><b> No seas como yuri y programa </b></center> 
 </p>
 
